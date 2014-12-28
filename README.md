@@ -3,7 +3,7 @@ roundcubelatic - Roundcube Addons
 
 # Roundcube plugin: custom_logo
 
-Roundcube webmail plugin to use a customized logo in Session and Printout.
+Roundcube webmail plugin to use a customized logo in session and printout.
 
 # Roundcube plugin: login_info
 
